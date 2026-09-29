@@ -1,0 +1,43 @@
+==========================================================================
+REVELATIONS INDEX — REPRODUCIBLE CORRELATIONS
+==========================================================================
+spearman self-test: PASS (4 cases; scipy agreement to 1.1e-16)
+
+Outcome measure: weighted career Approximate Value through the 2025 season,
+Pro-Football-Reference, retrieved after each score file was hashed.
+Draft slot is sign-flipped: positive means the board ordered correctly.
+
+cohorts loaded: 2020 n=32 · 2022 n=31 (Trent McDuffie unscored)
+
+NFL 2020 — all 32 picks (in-sample: weights and bands derived here)  ·  n = 32
+  outcome measure                RI  4-pillar     slot    edge
+  wAV                        +0.413    +0.374   +0.219  +0.194
+  Pro Bowls                  +0.487    +0.475   +0.310  +0.177
+  Pro Bowls + 2x All-Pro     +0.443    +0.418   +0.222  +0.221
+  Seasons as starter         +0.422    +0.380   +0.231  +0.191
+  pillars vs wAV: CP +0.328  AF +0.271  HC +0.424  AP -0.194  DC +0.308
+  RI beats draft slot on 4/4 measures
+
+NFL 2020 — exclusion policy applied  ·  n = 30
+  outcome measure                RI  4-pillar     slot    edge
+  wAV                        +0.342    +0.321   +0.173  +0.169
+  Pro Bowls                  +0.465    +0.459   +0.307  +0.158
+  Pro Bowls + 2x All-Pro     +0.411    +0.398   +0.210  +0.201
+  Seasons as starter         +0.342    +0.319   +0.189  +0.154
+  pillars vs wAV: CP +0.287  AF +0.272  HC +0.317  AP -0.184  DC +0.276
+  RI beats draft slot on 4/4 measures
+
+NFL 2022 — held out of derivation; not blind  ·  n = 31
+  outcome measure                RI  4-pillar     slot    edge
+  wAV                        +0.525    +0.534   +0.368  +0.157
+  Pro Bowls                  +0.323    +0.334   +0.060  +0.263
+  Pro Bowls + 2x All-Pro     +0.363    +0.374   +0.106  +0.257
+  Seasons as starter         +0.138    +0.158   +0.275  -0.137
+  pillars vs wAV: CP +0.463  AF +0.377  HC +0.570  AP +0.026  DC +0.457
+  RI beats draft slot on 3/4 measures
+
+==========================================================================
+Sub-index check (2020 only — CGI and IRI were scored for that cohort)
+  five-pillar RI                +0.413
+  Final Score = RI + CGI - IRI  +0.261   cost -0.152
+==========================================================================

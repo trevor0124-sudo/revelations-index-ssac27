@@ -1,0 +1,511 @@
+{
+ "cohort": "NFL2025",
+ "locked": "2026-08-31",
+ "sha256": "270ba5bccf8cbcb86c1f9fb5f78f461da03d896f8fd07c76252b7298a04452be",
+ "n": 32,
+ "note": "Scored from pre-draft sources (SI draft-day tracker). DC from SI consensus rank, not actual slot. Outcomes NOT consulted at scoring time. Resolution: 2028.",
+ "undervalued": [
+  {
+   "player": "Tyler Warren",
+   "pick": 14,
+   "ri_rank": 5,
+   "gap": 9
+  },
+  {
+   "player": "Jalon Walker",
+   "pick": 15,
+   "ri_rank": 7,
+   "gap": 8
+  },
+  {
+   "player": "Emeka Egbuka",
+   "pick": 19,
+   "ri_rank": 13,
+   "gap": 6
+  },
+  {
+   "player": "Jahdae Barron",
+   "pick": 20,
+   "ri_rank": 9,
+   "gap": 11
+  },
+  {
+   "player": "Omarion Hampton",
+   "pick": 22,
+   "ri_rank": 15,
+   "gap": 7
+  },
+  {
+   "player": "James Pearce",
+   "pick": 26,
+   "ri_rank": 17,
+   "gap": 9
+  },
+  {
+   "player": "Malaki Starks",
+   "pick": 27,
+   "ri_rank": 18,
+   "gap": 9
+  },
+  {
+   "player": "Maxwell Hairston",
+   "pick": 30,
+   "ri_rank": 24,
+   "gap": 6
+  },
+  {
+   "player": "Jihaad Campbell",
+   "pick": 31,
+   "ri_rank": 10,
+   "gap": 21
+  },
+  {
+   "player": "Josh Simmons",
+   "pick": 32,
+   "ri_rank": 19,
+   "gap": 13
+  }
+ ],
+ "overvalued": [
+  {
+   "player": "Cam Ward",
+   "pick": 1,
+   "ri_rank": 12,
+   "gap": -11
+  },
+  {
+   "player": "Tetairoa McMillan",
+   "pick": 8,
+   "ri_rank": 14,
+   "gap": -6
+  },
+  {
+   "player": "Kelvin Banks Jr.",
+   "pick": 9,
+   "ri_rank": 16,
+   "gap": -7
+  },
+  {
+   "player": "Mykel Williams",
+   "pick": 11,
+   "ri_rank": 21,
+   "gap": -10
+  },
+  {
+   "player": "Tyler Booker",
+   "pick": 12,
+   "ri_rank": 30,
+   "gap": -18
+  },
+  {
+   "player": "Kenneth Grant",
+   "pick": 13,
+   "ri_rank": 23,
+   "gap": -10
+  },
+  {
+   "player": "Walter Nolen",
+   "pick": 16,
+   "ri_rank": 32,
+   "gap": -16
+  },
+  {
+   "player": "Shemar Stewart",
+   "pick": 17,
+   "ri_rank": 27,
+   "gap": -10
+  },
+  {
+   "player": "Grey Zabel",
+   "pick": 18,
+   "ri_rank": 25,
+   "gap": -7
+  }
+ ],
+ "board": [
+  {
+   "pick": 1,
+   "player": "Cam Ward",
+   "pos": "QB",
+   "CP": 88,
+   "AF": 86,
+   "HC": 80,
+   "AP": 80,
+   "DC": 92.0,
+   "RI": 85.3,
+   "rank": 12
+  },
+  {
+   "pick": 2,
+   "player": "Travis Hunter",
+   "pos": "WR/CB",
+   "CP": 96,
+   "AF": 92,
+   "HC": 88,
+   "AP": 94,
+   "DC": 97.0,
+   "RI": 93.44,
+   "rank": 1
+  },
+  {
+   "pick": 3,
+   "player": "Abdul Carter",
+   "pos": "EDGE",
+   "CP": 94,
+   "AF": 90,
+   "HC": 88,
+   "AP": 92,
+   "DC": 99.0,
+   "RI": 92.2,
+   "rank": 2
+  },
+  {
+   "pick": 4,
+   "player": "Will Campbell",
+   "pos": "OT",
+   "CP": 92,
+   "AF": 86,
+   "HC": 86,
+   "AP": 82,
+   "DC": 94.0,
+   "RI": 88.24,
+   "rank": 4
+  },
+  {
+   "pick": 5,
+   "player": "Mason Graham",
+   "pos": "DT",
+   "CP": 88,
+   "AF": 86,
+   "HC": 84,
+   "AP": 88,
+   "DC": 96.0,
+   "RI": 87.62,
+   "rank": 6
+  },
+  {
+   "pick": 6,
+   "player": "Ashton Jeanty",
+   "pos": "RB",
+   "CP": 96,
+   "AF": 80,
+   "HC": 86,
+   "AP": 88,
+   "DC": 98.0,
+   "RI": 89.52,
+   "rank": 3
+  },
+  {
+   "pick": 7,
+   "player": "Armand Membou",
+   "pos": "OT",
+   "CP": 88,
+   "AF": 86,
+   "HC": 84,
+   "AP": 88,
+   "DC": 93.0,
+   "RI": 87.32,
+   "rank": 8
+  },
+  {
+   "pick": 8,
+   "player": "Tetairoa McMillan",
+   "pos": "WR",
+   "CP": 90,
+   "AF": 82,
+   "HC": 82,
+   "AP": 78,
+   "DC": 88.0,
+   "RI": 84.72,
+   "rank": 14
+  },
+  {
+   "pick": 9,
+   "player": "Kelvin Banks Jr.",
+   "pos": "OT",
+   "CP": 88,
+   "AF": 84,
+   "HC": 82,
+   "AP": 82,
+   "DC": 80.0,
+   "RI": 84.3,
+   "rank": 16
+  },
+  {
+   "pick": 10,
+   "player": "Colston Loveland",
+   "pos": "TE",
+   "CP": 88,
+   "AF": 82,
+   "HC": 84,
+   "AP": 84,
+   "DC": 90.0,
+   "RI": 85.5,
+   "rank": 11
+  },
+  {
+   "pick": 11,
+   "player": "Mykel Williams",
+   "pos": "EDGE",
+   "CP": 80,
+   "AF": 84,
+   "HC": 80,
+   "AP": 86,
+   "DC": 87.0,
+   "RI": 82.52,
+   "rank": 21
+  },
+  {
+   "pick": 12,
+   "player": "Tyler Booker",
+   "pos": "OG",
+   "CP": 84,
+   "AF": 78,
+   "HC": 80,
+   "AP": 72,
+   "DC": 82.0,
+   "RI": 79.9,
+   "rank": 30
+  },
+  {
+   "pick": 13,
+   "player": "Kenneth Grant",
+   "pos": "DT",
+   "CP": 82,
+   "AF": 82,
+   "HC": 80,
+   "AP": 86,
+   "DC": 79.0,
+   "RI": 81.94,
+   "rank": 23
+  },
+  {
+   "pick": 14,
+   "player": "Tyler Warren",
+   "pos": "TE",
+   "CP": 94,
+   "AF": 82,
+   "HC": 86,
+   "AP": 82,
+   "DC": 96.0,
+   "RI": 88.2,
+   "rank": 5
+  },
+  {
+   "pick": 15,
+   "player": "Jalon Walker",
+   "pos": "LB",
+   "CP": 88,
+   "AF": 86,
+   "HC": 84,
+   "AP": 88,
+   "DC": 95.0,
+   "RI": 87.52,
+   "rank": 7
+  },
+  {
+   "pick": 16,
+   "player": "Walter Nolen",
+   "pos": "DT",
+   "CP": 80,
+   "AF": 80,
+   "HC": 76,
+   "AP": 88,
+   "DC": 69.0,
+   "RI": 79.38,
+   "rank": 32
+  },
+  {
+   "pick": 17,
+   "player": "Shemar Stewart",
+   "pos": "EDGE",
+   "CP": 74,
+   "AF": 82,
+   "HC": 78,
+   "AP": 96,
+   "DC": 84.0,
+   "RI": 80.86,
+   "rank": 27
+  },
+  {
+   "pick": 18,
+   "player": "Grey Zabel",
+   "pos": "OL",
+   "CP": 86,
+   "AF": 80,
+   "HC": 80,
+   "AP": 82,
+   "DC": 74.0,
+   "RI": 81.74,
+   "rank": 25
+  },
+  {
+   "pick": 19,
+   "player": "Emeka Egbuka",
+   "pos": "WR",
+   "CP": 88,
+   "AF": 82,
+   "HC": 84,
+   "AP": 84,
+   "DC": 83.0,
+   "RI": 84.8,
+   "rank": 13
+  },
+  {
+   "pick": 20,
+   "player": "Jahdae Barron",
+   "pos": "CB",
+   "CP": 90,
+   "AF": 86,
+   "HC": 84,
+   "AP": 80,
+   "DC": 86.0,
+   "RI": 86.1,
+   "rank": 9
+  },
+  {
+   "pick": 21,
+   "player": "Derrick Harmon",
+   "pos": "DT",
+   "CP": 84,
+   "AF": 82,
+   "HC": 80,
+   "AP": 84,
+   "DC": 78.0,
+   "RI": 82.22,
+   "rank": 22
+  },
+  {
+   "pick": 22,
+   "player": "Omarion Hampton",
+   "pos": "RB",
+   "CP": 90,
+   "AF": 78,
+   "HC": 82,
+   "AP": 84,
+   "DC": 85.0,
+   "RI": 84.4,
+   "rank": 15
+  },
+  {
+   "pick": 23,
+   "player": "Matthew Golden",
+   "pos": "WR",
+   "CP": 84,
+   "AF": 80,
+   "HC": 80,
+   "AP": 94,
+   "DC": 77.0,
+   "RI": 83.16,
+   "rank": 20
+  },
+  {
+   "pick": 24,
+   "player": "Donovan Jackson",
+   "pos": "OG",
+   "CP": 86,
+   "AF": 78,
+   "HC": 80,
+   "AP": 82,
+   "DC": 66.0,
+   "RI": 80.48,
+   "rank": 29
+  },
+  {
+   "pick": 25,
+   "player": "Jaxson Dart",
+   "pos": "QB",
+   "CP": 84,
+   "AF": 84,
+   "HC": 76,
+   "AP": 82,
+   "DC": 67.0,
+   "RI": 80.56,
+   "rank": 28
+  },
+  {
+   "pick": 26,
+   "player": "James Pearce",
+   "pos": "EDGE",
+   "CP": 86,
+   "AF": 82,
+   "HC": 80,
+   "AP": 92,
+   "DC": 79.0,
+   "RI": 84.2,
+   "rank": 17
+  },
+  {
+   "pick": 27,
+   "player": "Malaki Starks",
+   "pos": "S",
+   "CP": 86,
+   "AF": 84,
+   "HC": 82,
+   "AP": 84,
+   "DC": 81.0,
+   "RI": 84.02,
+   "rank": 18
+  },
+  {
+   "pick": 28,
+   "player": "Tyleik Williams",
+   "pos": "DT",
+   "CP": 82,
+   "AF": 80,
+   "HC": 78,
+   "AP": 82,
+   "DC": 68.0,
+   "RI": 79.42,
+   "rank": 31
+  },
+  {
+   "pick": 29,
+   "player": "Josh Conerly Jr.",
+   "pos": "OT",
+   "CP": 84,
+   "AF": 82,
+   "HC": 80,
+   "AP": 84,
+   "DC": 68.0,
+   "RI": 81.22,
+   "rank": 26
+  },
+  {
+   "pick": 30,
+   "player": "Maxwell Hairston",
+   "pos": "CB",
+   "CP": 84,
+   "AF": 82,
+   "HC": 78,
+   "AP": 88,
+   "DC": 71.0,
+   "RI": 81.76,
+   "rank": 24
+  },
+  {
+   "pick": 31,
+   "player": "Jihaad Campbell",
+   "pos": "LB",
+   "CP": 86,
+   "AF": 84,
+   "HC": 82,
+   "AP": 90,
+   "DC": 91.0,
+   "RI": 85.92,
+   "rank": 10
+  },
+  {
+   "pick": 32,
+   "player": "Josh Simmons",
+   "pos": "OT",
+   "CP": 86,
+   "AF": 84,
+   "HC": 82,
+   "AP": 84,
+   "DC": 75.0,
+   "RI": 83.42,
+   "rank": 19
+  }
+ ]
+}
