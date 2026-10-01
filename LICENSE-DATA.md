@@ -8,4 +8,4 @@ The datasets in this repository are published to satisfy the MIT Sloan Sports An
 
 **Third-party data.** Outcome values are derived from Pro-Football-Reference and remain subject to that source's terms. They are reproduced here at the record level solely to make the reported correlations reproducible.
 
-Revelations Index is a working name. Nothing in this licence grants rights to the name. Index™ is a trademark of Trevor A. Johnson. Nothing in this licence grants rights to the mark.
+Revelations Index is a working name. Nothing in this licence grants rights to the name.
